@@ -1,0 +1,18 @@
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Added Pin To Net: NetName=FLASH_MOSI Pin=IC2-A5
+Added Pin To Net: NetName=FLASH_SCLK Pin=IC2-B3
+Added Pin To Net: NetName=FLASH_MISO Pin=IC2-B4
+Added Pin To Net: NetName=FLASH_NCS Pin=IC2-C3
+Added Pin To Net: NetName=H3L_NCS Pin=U2-8
+Added Net: Name=H3L_NCS
+Added Pin To Net: NetName=LSM_NCS Pin=U3-12
+Added Net: Name=LSM_NCS
+Added Pin To Net: NetName=MS5_MISO Pin=U4-6
+Added Net: Name=MS5_MISO
+Added Pin To Net: NetName=MS5_MOSI Pin=U4-7
+Added Net: Name=MS5_MOSI
+Added Pin To Net: NetName=MS5_NCS Pin=U4-4
+Added Pin To Net: NetName=MS5_NCS Pin=U4-5
+Added Net: Name=MS5_NCS
+Added Pin To Net: NetName=MS5_SCLK Pin=U4-8
+Added Net: Name=MS5_SCLK

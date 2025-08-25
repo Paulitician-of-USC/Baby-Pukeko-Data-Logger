@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=H3L_NCS Pin=IC2-B5
+Removed Pin From Net: NetName=LSM_NCS Pin=IC2-H6
+Added Pin To Net: NetName=LSM_NCS Pin=IC2-B6
+Added Pin To Net: NetName=H3L_NCS Pin=IC2-H6

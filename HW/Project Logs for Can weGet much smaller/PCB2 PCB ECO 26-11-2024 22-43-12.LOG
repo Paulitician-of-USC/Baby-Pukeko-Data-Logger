@@ -1,0 +1,24 @@
+Added Component: Designator=IC?(BGA64C50P8X8_447X440X64)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32F103REY6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f103rey6tr/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32f103rc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.635mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F103REY6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F103REY6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F103REY6TR?qs=pW7VN3fQ%252BU%252BfbFU443Y98Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(QFN50P400X400X60-28N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32G071G8U6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32g071c8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32G071G8U6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32G071G8U6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G071G8U6TR?qs=ZSypp649SOUutATaO5pC%2Fg%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component IC? STM32F103REY6TR
+Added Member To Class: ClassName=Sheet2 Member=Component IC? STM32G071G8U6TR
+Added Member To Class: ClassName=Sheet2 Member=Component IC? W25Q512JVEIQ
+Added Member To Class: ClassName=Sheet2 Member=Component U? LSM6DSO32TR
+Added Member To Class: ClassName=Sheet2 Member=Component U? H3LIS331DLTR
+Added Member To Class: ClassName=Sheet2 Member=Component U? MS560702BA03-50

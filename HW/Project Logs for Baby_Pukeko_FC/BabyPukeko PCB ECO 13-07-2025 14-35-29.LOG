@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3v3 Pin=IC2-D7
+Added Pin To Net: NetName=GPIO_OUT Pin=IC2-C8
+Added Net: Name=GPIO_OUT
+Change Class Name : Old Net Name=Sheet2 New Net Name=BabyPukeko

@@ -1,0 +1,13 @@
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:76:9:MT2_Init	32	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:123:10:cmd_reset	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:131:10:cmd_write_en	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:143:10:cmd_send_to_flash	40	static,ignoring_inline_asm
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:158:10:init_setting	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:169:10:cmd_get_feature	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:219:10:cmd_set_feature	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:257:10:read_id	24	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:275:10:read_parameter_page	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:317:10:spi_flash_init	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:343:10:spi_flash_erase	16	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:379:10:spi_flash_read	24	static
+../Core/Inc/MT29F1G01ABAFDWB/drv_spi_flash.c:435:10:spi_flash_write	24	static

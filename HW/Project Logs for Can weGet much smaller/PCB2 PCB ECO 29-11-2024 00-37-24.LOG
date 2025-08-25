@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=FLASH_MOSI Pin=IC2-A5
+Removed Pin From Net: NetName=BOOT Pin=IC2-A6
+Removed Pin From Net: NetName=FLASH_SCLK Pin=IC2-B3
+Removed Pin From Net: NetName=FLASH_MISO Pin=IC2-B4
+Removed Pin From Net: NetName=USB_N Pin=IC2-C1
+Removed Pin From Net: NetName=USB_P Pin=IC2-C2
+Removed Pin From Net: NetName=FLASH_NCS Pin=IC2-C3
+Removed Pin From Net: NetName=3v3 Pin=IC2-C6
+Removed Pin From Net: NetName=MS5_SCLK Pin=IC2-E5
+Removed Pin From Net: NetName=GND Pin=IC2-E7
+Removed Pin From Net: NetName=NetD1_2 Pin=IC2-E8
+Removed Pin From Net: NetName=ACC_MOSI Pin=IC2-F1
+Removed Pin From Net: NetName=ACC_MISO Pin=IC2-F2
+Removed Pin From Net: NetName=GND Pin=IC2-F5
+Removed Pin From Net: NetName=ACC_SCLK Pin=IC2-G1
+Removed Pin From Net: NetName=LSM_NCS Pin=IC2-G2
+Removed Pin From Net: NetName=MS5_MOSI Pin=IC2-G4
+Removed Pin From Net: NetName=MS5_MISO Pin=IC2-G5
+Removed Pin From Net: NetName=3v3 Pin=IC2-G6
+Removed Pin From Net: NetName=3v3 Pin=IC2-G8
+Removed Pin From Net: NetName=H3L_NCS Pin=IC2-H3
+Removed Pin From Net: NetName=MS5_NCS Pin=IC2-H7
+Change Component Footprint: Designator=IC2 Old Footprint=BGA64C50P8X8_447X440X64 New Footprint=BGA64C40P8X8_362X365X58
+Change Component Comment : Designator=IC2 Old Comment=STM32F103REY6TR New Comment=STM32F412REY6TR
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "BGA64C50P8X8_447X440X64"; UniqueID = "\WQKWEEVK" ("\WQKWEEVK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STM32F412REY6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f412rey6tr/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/90/07/b3/8c/10/4e/95/DM00213872.pdf/files/DM00213872.pdf/jcr:content/translations/en.DM00213872.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.585mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F412REY6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F412REY6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F412REY6TR?qs=qzCNEk%252BRr%252BY9qzpOClZyHQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C9(FP-C1005-050-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.039inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=FLASH_NCS Pin=IC2-A2
+Added Pin To Net: NetName=FLASH_MOSI Pin=IC2-A3
+Added Pin To Net: NetName=MS5_SCLK Pin=IC2-A5
+Added Pin To Net: NetName=FLASH_MISO Pin=IC2-B3
+Added Pin To Net: NetName=MS5_MISO Pin=IC2-B4
+Added Pin To Net: NetName=H3L_NCS Pin=IC2-B5
+Added Pin To Net: NetName=LSM_NCS Pin=IC2-B6
+Added Pin To Net: NetName=3v3 Pin=IC2-B7
+Added Pin To Net: NetName=NetD1_2 Pin=IC2-B8
+Added Pin To Net: NetName=USB_P Pin=IC2-C1
+Added Pin To Net: NetName=FLASH_SCLK Pin=IC2-C3
+Added Pin To Net: NetName=MS5_MOSI Pin=IC2-C4
+Added Pin To Net: NetName=USB_N Pin=IC2-D3
+Added Pin To Net: NetName=BOOT Pin=IC2-D4
+Added Pin To Net: NetName=ACC_MOSI Pin=IC2-D6
+Added Pin To Net: NetName=ACC_SCLK Pin=IC2-E1
+Added Pin To Net: NetName=ACC_MISO Pin=IC2-E7
+Added Pin To Net: NetName=MS5_NCS Pin=IC2-G6
+Added Pin To Net: NetName=GND Pin=IC2-G8
+Added Pin To Net: NetName=3v3 Pin=IC2-H7
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=BOOT Pin=R6-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=IC2-H3
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=Sheet2 Member=Component C1 C0402C105K8PACTU
+Added Member To Class: ClassName=Sheet2 Member=Component C5 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C9 4.7uF
+Added Member To Class: ClassName=Sheet2 Member=Component IC2 STM32F412REY6TR
+Added Member To Class: ClassName=Sheet2 Member=Component R1 RC0402FR-071KL
+Added Member To Class: ClassName=Sheet2 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet2 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet2 Member=Component R6 10K
+Added Member To Class: ClassName=Sheet2 Member=Component U2 H3LIS331DLTR

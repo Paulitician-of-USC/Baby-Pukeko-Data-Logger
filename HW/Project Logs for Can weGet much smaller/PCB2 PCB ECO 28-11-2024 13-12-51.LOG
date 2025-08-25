@@ -1,0 +1,17 @@
+Added Component: Designator=Y1(ECSTXO201633120TR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ECS-TXO-2016-33-120-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ecs-txo-2016-33-120-tr/ecs-international?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ecsxtal.com/store/pdf/ECS-TXO-2016.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-TXO-2016-33-120-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "520-TXO-2016-33-120T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ECS/ECS-TXO-2016-33-120-TR?qs=PzGy0jfpSMsr8Aj1SRFQrg%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Added Pin To Net: NetName=3v3 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=3v3 Pin=Y1-4
+Added Pin To Net: NetName=NetIC2_D8 Pin=IC2-D8
+Added Pin To Net: NetName=NetIC2_D8 Pin=Y1-3
+Added Net: Name=NetIC2_D8
+Added Member To Class: ClassName=Sheet2 Member=Component Y1 ECS-TXO-2016-33-120-TR

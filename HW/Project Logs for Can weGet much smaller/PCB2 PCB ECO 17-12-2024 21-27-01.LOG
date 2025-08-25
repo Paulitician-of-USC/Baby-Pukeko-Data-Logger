@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NRST Pin=IC2-D7
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=IC2-B2
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=IC2-C2
+Added Net: Name=SWDIO

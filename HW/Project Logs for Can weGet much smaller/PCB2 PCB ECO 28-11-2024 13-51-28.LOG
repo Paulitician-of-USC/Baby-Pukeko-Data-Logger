@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=IC1 Old Footprint=SON127P800X600X80-9N-D New Footprint=SON127P800X600X65-8N
+Change Component Comment : Designator=IC1 Old Comment=W25Q512JVEIQ New Comment=MT29F1G01ABAFDWB-IT_F_TR
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "SON127P800X600X80-9N-D"; UniqueID = "\QPHDOFXH" ("\QPHDOFXH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MT29F1G01ABAFDWB-IT:F TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mt29f1g01abafdwb-itf-tr/micron-technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://static6.arrow.com/aropdfconversion/e214d87b5f763ef07ebe46ce1e43d78d0de80c6/m78a_1gb_3v_nand_spi.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Micron"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MT29F1G01ABAFDWB-IT:F TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "340-319941-REEL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Micron/MT29F1G01ABAFDWB-ITF-TR?qs=j%252B1pi9TdxUZK8%252B7736rAcg%3D%3D"; VariantName = "[No Variations]"
