@@ -1,4 +1,4 @@
-# Baby Pukeko Flight Computer
+# Baby Pukeko Data Logger
 <img src = "https://github.com/user-attachments/assets/de96c2da-d3a1-403d-b10a-bbc623dcf0df" width="250" height ="400" />
 
 
@@ -16,14 +16,15 @@ The baby Pukeko FC (Flight Computer) is a basic data logger for brain rot perfor
 - 10mmx12mm size (Yes, that is smaller than a Micro SD Card)
 - Minimum component size: 0402.
 
-I hand-assembled this in my meth lab of a workstation. And Surprisingly, it works!
+I hand-assembled this. Surprisingly, it works*!
 
+*TBD in Software
 
 # **Hardware:**
 
 <img src ="https://github.com/user-attachments/assets/5568417a-6d13-449f-b356-c32e133da979" width="420" height ="480" />
 
-Please look at the .pdf document for a better in-depth description of my ideas. But ya, it's very simple.
+Please look at the .pdf document for a better in-depth description of my ideas. But, it's very simple.
 It is powered by USB input or a 1s battery, but not both simultaneously. 
 
 # **Software:**
