@@ -1,5 +1,6 @@
 # Baby Pukeko Data Logger
-<img src = "https://github.com/user-attachments/assets/de96c2da-d3a1-403d-b10a-bbc623dcf0df" width="250" height ="400" />
+![w3w868tlhkc91](https://github.com/user-attachments/assets/65ddb764-c7b8-490a-a8a6-d62cb773cd27)
+
 
 
 The baby Pukeko FC (Flight Computer) is a basic data logger for brain rot performance. It is also the only flight controller that looks like the bird it was named after. Kinda neat if you ask me!
